@@ -18,7 +18,7 @@
 </p>
 
 <p align="left">
-  <a href="#" title="Outlook">
+  <a href="mailto:j.guilhermelima@outlook.com" title="Outlook">
   <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/josé-lima-151b58b0" title="LinkedIn">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
